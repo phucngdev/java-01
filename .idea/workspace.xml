@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8315e8d-0aa3-4074-9fe3-bc0af59d5f91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +26,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dJ7JsqaPgYDwaKtqVVvXp1HYYb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +42,11 @@
     "Application.Main.executor": "Run",
     "Application.bai2.executor": "Run",
     "Application.bai3.executor": "Run",
+    "Application.bai4.executor": "Run",
     "Application.bai5.executor": "Run",
+    "Application.bai6.executor": "Run",
+    "Application.bai7.executor": "Run",
+    "Application.bai8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -74,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709714259126</updated>
-      <workItem from="1709714260567" duration="2922000" />
+      <workItem from="1709714260567" duration="4274000" />
+      <workItem from="1709801182891" duration="4142000" />
     </task>
     <servers />
   </component>
